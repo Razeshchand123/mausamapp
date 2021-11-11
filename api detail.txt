@@ -1,0 +1,28 @@
+website:https://home.openweathermap.org/api_keys
+usernme:razesh84chand@gmailcom
+password:iloveyousapana1234
+apikry:e96f1abc3f6dfbf2d002e30c7a27423e
+id:
+
+eg:https://api.openweathermap.org/data/2.5/weather?q=delhi&appid=e96f1abc3f6dfbf2d002e30c7a27423e
+
+
+
+
+
+some data getting from api 
+   temp = data['main']['temp'];
+    humidity = data['main']['umidity"'];
+    airspeed = data['wind']['speed'];
+    description = data['weather'][0]['description"'];
+    main = data['weather'][0]['main'];
+
+
+
+
+
+
+
+
+
+
